@@ -1,9 +1,3 @@
-'''
-  Repositório: Algoritmos em Python
-  Autor: Daniel Thielmann
-  Descrição: Curso completo de algoritmos usando Python
-'''
-
 # 1 - Introdução aos Algoritmos
 # Conceito de Algoritmos e Ambiente de Programação
 # Um algoritmo é uma sequência de passos bem definidos para resolver um problema.
@@ -51,7 +45,10 @@ else:
     print("Você é menor de idade.")
 
 # 5 - Estruturas de Repetição
-for i in range(5):
+for i in range(1, 10, 2):  # Começa do 1, vai até 10, pulando de 2 em 2
+    print(f"Contagem: {i}")
+
+for i in range(6):
     print(f"Contagem: {i}")
 
 j = 0
