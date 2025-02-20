@@ -56,10 +56,13 @@ while (j < 5) {
 
 // 6 - Vetores Numéricos
 let numeros = [10, 20, 30, 40, 50];
-numeros.forEach((num) => console.log(num));
+console.log(numeros);
 
-let maisNumeros = [5, 15, 25, 35, 45];
-maisNumeros.forEach((num) => console.log(num));
+let maisNumeros = [1000, 1500, 2500, 3500, 4500];
+console.log(maisNumeros);
+
+numeros[2] = 35;
+console.log(numeros);
 
 // 7 - Strings e Manipulação
 let frase = "Aprendendo JavaScript";
