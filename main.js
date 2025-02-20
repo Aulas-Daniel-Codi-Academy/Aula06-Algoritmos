@@ -5,6 +5,8 @@ console.log(
 );
 console.log("Executando um segundo exemplo de introdução ao JavaScript.");
 
+/*
+
 // 2 - Noções de uma Linguagem de Programação
 // Variáveis, Tipos de Dados e Operações Básicas
 let numero = 10;
@@ -102,3 +104,5 @@ let outroAluno = {
   curso: "Engenharia de Software",
 };
 console.log(`Aluno: ${outroAluno.nome}, Curso: ${outroAluno.curso}`);
+
+*/

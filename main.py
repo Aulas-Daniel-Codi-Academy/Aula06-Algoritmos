@@ -9,12 +9,15 @@
 print("Olá, Mundo! Este é um exemplo básico de um programa em Python.")
 print("Executando um segundo exemplo de introdução ao Python.")
 
+'''
+
 # 2 - Noções de uma Linguagem de Programação
 # Variáveis, Tipos de Dados e Operações Básicas
 numero = 10
 texto = "Exemplo de string"
 booleano = True
 print(f"Número: {numero}, Texto: {texto}, Booleano: {booleano}")
+
 
 numero2 = 25
 texto2 = "Outro exemplo de string"
@@ -103,3 +106,4 @@ outro_aluno = {
     "curso": "Engenharia de Software"
 }
 print(f"Aluno: {outro_aluno['nome']}, Curso: {outro_aluno['curso']}")
+'''
